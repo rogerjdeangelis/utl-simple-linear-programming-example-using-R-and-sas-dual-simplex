@@ -30,7 +30,32 @@ https://communities.sas.com/t5/SAS-Programming/Linear-programming-in-SAS/m-p/554
 macros
 https://tinyurl.com/y9nfugth
 https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
-
+                    
+ _ __   _____      __
+| '_ \ / _ \ \ /\ / /
+| | | |  __/\ V  V / 
+|_| |_|\___| \_/\_/  
+                     
+INSIGHTFUL COMMENT FROm                                               
+                                                                      
+Helm, Werner, Prof. Dr.                                               
+werner.helm@h-da.de                                                   
+                                                                      
+Hi Roger :                                                            
+                                                                      
+I obtain some excerpts from/via  sas-l.                               
+Sometimes it's not easy to capture the intent.                        
+                                                                      
+Simple linear programming example using R                             
+and sas dual simplex (posted by you)  ::                              
+                                                                      
+The problem has uncountably many optimal points (all with  obj = 3),  
+among them two extreme points (found by  SAS  resp. R).               
+                                                                      
+Everything OK.                                                        
+                                                                      
+Regards,  Werner.                                                     
+                                                      
 
 *_                 _
 (_)_ __  _ __  _   _| |_
